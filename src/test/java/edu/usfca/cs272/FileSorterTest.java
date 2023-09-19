@@ -216,6 +216,7 @@ public class FileSorterTest {
 	@Nested
 	@TestMethodOrder(OrderAnnotation.class)
 	@Tag("F")
+	@Tag("approach")
 	public class F_ApproachTests {
 		/**
 		 * Tests approach.
